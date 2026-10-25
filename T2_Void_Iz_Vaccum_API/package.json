@@ -1,0 +1,13 @@
+{
+  "name": "void-iz-vaccum-api",
+  "version": "1.0.0",
+  "description": "Persistent REST API for the Void Iz Vaccum e-commerce coursework project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
